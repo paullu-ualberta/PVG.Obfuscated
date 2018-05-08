@@ -1,4 +1,5 @@
 # coding: UTF-8
+# Copyright 2018, Duane Szafron and the PVG MOOC
 import sys
 ll_opy_ = sys.version_info [0] == 2
 l11l_opy_ = 2048

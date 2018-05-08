@@ -1,4 +1,5 @@
 # This module provides support for simple graphical games.
+# Copyright 2018, Duane Szafron and the PVG MOOC
 
 from pygame import init, quit, Color, Surface, KEYUP, K_SPACE, K_RETURN, K_z, K_LSHIFT, K_RSHIFT, K_CAPSLOCK, K_BACKSPACE
 from pygame.display import set_caption, set_mode, update
